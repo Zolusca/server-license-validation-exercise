@@ -1,6 +1,6 @@
 # Dokumentasi Cara Kerja License Software Sederhana
 
-<img title="" src="./MarkdownImage/AntMask.jpeg" width="100" height="100" alt="image" data-align="center">
+<img title="" src="./MarkdownImage/AntMask.gif" width="100" height="100" alt="image" data-align="center">
 
 ## Deskripsi Singkat
 
