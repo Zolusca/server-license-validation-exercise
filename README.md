@@ -1,6 +1,6 @@
 # Dokumentasi Cara Kerja License Software Sederhana
 
-<img title="" src="file:///home/haslam/Pictures/AntMask.gif" alt="image" data-align="center">
+<img title="" src="./MarkdownImage/AntMask.jpeg" width="100" height="100" alt="image" data-align="center">
 
 ## Deskripsi Singkat
 
@@ -12,11 +12,11 @@ dan untuk server side dengan SpringBoot(java).
 
 ## JAVAFX Client Side
 
-![Diagram](/home/haslam/Documents/developmentTraining/training-Java/project lisensi/MarkdownImage/Untitled Diagram.png)
+![Diagram](./MarkdownImage/UntitledDiagram.png "Title")
 
 ## SpringBoot Server Side
 
-![alt text](/home/haslam/Documents/developmentTraining/training-Java/project%20lisensi/MarkdownImage/diagrams.png "Title")
+![alt text](./MarkdownImage/diagrams.png "Title")
 
 ### Api Path
 
